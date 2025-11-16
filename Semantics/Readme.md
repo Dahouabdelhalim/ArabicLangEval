@@ -45,3 +45,5 @@ Given an **Arabic sentence** and a **target word (W)**, the model must output th
 
 **Expected Output:**
 - `نبع ماء`
+
+## 3. Antonym Substitution
